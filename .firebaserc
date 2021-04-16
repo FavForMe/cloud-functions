@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "favforme-dev",
+    "dev": "favforme-dev",
+    "prod": "favforme-production"
+  }
+}
